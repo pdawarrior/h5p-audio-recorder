@@ -1,0 +1,90 @@
+﻿{
+  "semantics": [
+    {
+      "label": "Mô tả nhiệm vụ",
+      "description": "Văn bản tùy chọn để hiển thị phía trên máy ghi âm"
+    },
+    {
+      "label": "Bản địa hóa",
+      "fields": [
+        {
+          "label": "Văn bản nút ghi",
+          "default": "Ghi"
+        },
+        {
+          "label": "Văn bản nút tạm dừng",
+          "default": "Tạm dừng"
+        },
+        {
+          "label": "Văn bản nút tiếp tục",
+          "default": "Tiếp tục"
+        },
+        {
+          "label": "Văn bản nút tải xuống",
+          "default": "Tải xuống"
+        },
+        {
+          "label": "Văn bản nút xong",
+          "default": "Xong"
+        },
+        {
+          "label": "Văn bản nút thử lại",
+          "default": "Thử lại"
+        },
+        {
+          "label": "Micrô không hỗ trợ thông báo lỗi",
+          "default": "Micrô không được hỗ trợ. Hãy chắc chắn rằng bạn đang sử dụng trình duyệt cho phép ghi âm micrô."
+        },
+        {
+          "label": "Thông báo lỗi không thể truy cập micrô",
+          "default": "Không thể truy cập micrô. Hãy chắc chắn rằng micrô trình duyệt đã được bật. "
+        },
+        {
+          "label": "Thông báo được hiển thị khi không cho phép truy cập không an toàn",
+          "description": "Một số trình duyệt không cho phép sử dụng micrô khi trang được cung cấp bằng HTTP. Thông báo này sẽ được hiển thị nếu đó là trường hợp",
+          "default": "Không cho phép truy cập micrô trong trình duyệt của bạn vì trang này không được phục vụ bằng HTTPS. Vui lòng liên hệ với tác giả và yêu cầu người đó cung cấp tính năng này bằng HTTPS"
+        },
+        {
+          "label": "Thông báo trạng thái sẵn sàng ghi",
+          "default": "Nhấn nút bên dưới để ghi lại câu trả lời của bạn."
+        },
+        {
+          "label": "Ghi thông báo trạng thái",
+          "default": "Ghi âm ..."
+        },
+        {
+          "label": "Thông báo trạng thái tạm dừng",
+          "default": "Ghi âm bị tạm dừng. Nhấn một nút để tiếp tục ghi âm. "
+        },
+        {
+          "label": "Thông báo trạng thái đã hoàn tất ghi",
+          "default": "Bạn đã ghi lại thành công câu trả lời của mình! Nghe đoạn ghi âm dưới đây. "
+        },
+        {
+          "label": "Thông báo tải xuống ghi âm",
+          "default": "Tải xuống bản ghi này hoặc thử lại."
+        },
+        {
+          "label": "Văn bản tiêu đề hộp thoại thử lại",
+          "default": "Thử lại ghi âm?"
+        },
+        {
+          "label": "Văn bản nội dung hộp thoại thử lại",
+          "default": "Bằng cách nhấn \"Thử lại\", bạn sẽ mất bản ghi hiện tại của mình."
+        },
+        {
+          "label": "Văn bản xác nhận hộp thoại thử lại",
+          "default": "Thử lại"
+        },
+        {
+          "label": "Văn bản hủy hộp thoại thử lại",
+          "default": "Hủy"
+        },
+        {
+          "label": "Không thể tạo thông báo trạng thái tệp âm thanh",
+          "default": "Không thể tạo tệp âm thanh."
+        }
+      ]
+    }
+  ]
+}
